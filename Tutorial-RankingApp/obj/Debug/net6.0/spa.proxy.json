@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44455",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\RitaBerg\\learning\\personalLab\\RankingApp\\RankingApp\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
