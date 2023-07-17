@@ -11,3 +11,4 @@
 
 # Tutorial
 - 📝 Ranking App
+- 📝 Quiz App
